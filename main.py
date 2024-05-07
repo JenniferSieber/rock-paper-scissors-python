@@ -49,8 +49,7 @@ def game_play() :
                 computer_wins += 1          
                 print(' 🤖 Computer won with: ', computer_choice)
                 print('Your current wins:', user_wins, 'Computer wins:', computer_wins)
-                
-                
+                    
             elif user_choice == computer_choice :
                 print('It is a Tie! Computer chose: ', computer_choice)
                 print('Wins: You', user_wins, ' vs. Computer:', computer_wins)

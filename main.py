@@ -1,11 +1,11 @@
 """
-Rock Paper Scissors:
-Provided announcement of game and permission to start running the game.
-Play standard version or Rock Paper Scissors 
-For each round: take user answer and provided a randomly generated answer from the Computer.
-Compare the answers to win conditions and annouce winner
-and running score for each party at end of round.
-The user may play as many rounds as they want.
+        Rock Paper Scissors:
+        Provided announcement of game and permission to start running the game.
+        Play standard version or Rock Paper Scissors 
+        For each round: take user answer and provided a randomly generated answer from the Computer.
+        Compare the answers to win conditions and annouce winner
+        and running score for each party at end of round.
+        The user may play as many rounds as they want.
 
 """
 import random 
